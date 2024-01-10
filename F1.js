@@ -1,7 +1,7 @@
-//Write a JavaScript function to get an Array and to read the First Element of 
-// the array. Check whether its Prime or Not
+ //Write a JavaScript function to get an Array and to read the First Element of 
+ // the array. Check whether its Prime or Not
 
-function getFirstElement(arr) {
+ function getFirstElement(arr) {
     if (arr.length>0) {
         return arr[0];
      }

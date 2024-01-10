@@ -1,6 +1,6 @@
 
 
- // create a JavaScript For Loop that will iterate from0 to 15. For each iteration,
+ // create a JavaScript For Loop that will iterate from 0 to 15. For each iteration,
  //check if the number is odd or even, and display the message to the screen as odd
  //or even
 
